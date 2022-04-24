@@ -1,0 +1,24 @@
+{
+  "name": "bmi-app",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator application styled with GitHub's Design System, [Primer](https://primer.style/).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs280spring/bmi-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs280spring/bmi-app/issues"
+  },
+  "homepage": "https://github.com/cs280spring/bmi-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
